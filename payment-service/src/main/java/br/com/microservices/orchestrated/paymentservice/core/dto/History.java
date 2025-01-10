@@ -15,8 +15,8 @@ import java.time.LocalDateTime;
 public class History {
 
     private String source;
-    private String status;
-    private ESagaStatus message;
+    private ESagaStatus status;
+    private String message;
     private LocalDateTime createdAt;
 
 
